@@ -1,0 +1,15 @@
+name: estatesale
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.0
+  google_ml_kit: ^0.7.0
+
+flutter:
+  uses-material-design: true
